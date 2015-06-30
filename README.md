@@ -1,9 +1,14 @@
 42_NODE_pool
 =====
 NODE pool - organized by 42 school students
+http://nodeschool.io
 
 #### About
 NodeJS Pool at the [42 school](http://42.fr).
+Source: http://nodeschool.io
+ * d00 : learnyounode
+ * d01 (scopes) : scope-chains-closures
+ * d01 (express) : expressworks
 
 #### Licence
 Copyright 2015 © Nicolas Coden - <ncoden@student.42.fr>
