@@ -1,0 +1,5 @@
+Express.js Framework Basics - http://nodeschool.io/
+
+To install, run:
+ npm install -g expressworks
+ expressworks
