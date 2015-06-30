@@ -1,0 +1,5 @@
+NodeJS Basics - http://nodeschool.io/
+
+To install, run:
+ npm install -g learnyounode
+ learnyounode
