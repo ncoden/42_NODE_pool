@@ -1,0 +1,5 @@
+Scope Chains & Closures - http://nodeschool.io/
+
+To install, run:
+ npm install -g scope-chains-closures
+ scope-chains-closures
