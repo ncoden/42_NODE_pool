@@ -1,6 +1,6 @@
 42_NODE_pool
 =====
-NODE pool - organized by 42 school students
+42 Project - NodeJS pool (organized by 42 school students)
 http://nodeschool.io
 
 #### About
